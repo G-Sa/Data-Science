@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# Guilherme Sà
+# Guilherme Sá
 <sub>*Estudante e Entusiasta de Data Science*</sub>
 
 Estudante do Centro de Informática -UFPE, trabalhando e estudando para ampliar meus conhecimentos em Data Science
