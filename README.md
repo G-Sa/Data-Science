@@ -17,7 +17,8 @@ Estudante do Centro de Informática -UFPE, trabalhando e estudando para ampliar 
 
 ## Projetos:
 
-* **Analise de Ações usando Python:**  https://bit.ly/2A6I3vK
+* **Análise de Ações usando Python:**  https://bit.ly/2A6I3vK
+* **Breve Análise dos dados do Airbnb, Cape Town:** https://bit.ly/2Po2vMO
 ---
 
 
